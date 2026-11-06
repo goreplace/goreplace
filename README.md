@@ -1,8 +1,4 @@
-## intro
-
- male   .   17 
-     no dni
- 
+<img width="1200" height="675" alt="3d9bab0697c31da44f7828175da22471" src="https://github.com/user-attachments/assets/ba1e5cb7-a241-4c7f-86ca-01fac61dd7e2" />
 
 <!--
 **goreplace/goreplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
